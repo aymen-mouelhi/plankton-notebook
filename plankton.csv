@@ -1,7 +1,7 @@
-long,lat,depth,type,ship,cell_type
-7.04,43.23,0.16,detritus,tara,200_500
-7.04,43.23,0.16,detritus,tara,200_500
-7.04,43.23,0.16,detritus,tara,200_500
-7.04,43.23,0.16,detritus,tara,200_500
-7.04,43.23,0.16,detritus,tara,200_500
-7.04,43.23,0.16,detritus,tara,200_500
+  long,lat,depth,type,category,ship,cell_type,area,water_quality
+7.04,43.23,0.16,detritus,zooplankton,tara,200_500,mediterranean,bad
+7.04,43.23,0.16,detritus,zooplankton,tara,200_500,pacific,bad
+7.04,43.23,0.16,detritus,zooplankton,tara,200_500,mediterranean,bad
+7.04,43.23,0.16,detritus,zooplankton,tara,200_500,mediterranean,bad
+7.04,43.23,0.16,detritus,zooplankton,tara,200_500,mediterranean,bad
+7.04,43.23,0.16,detritus,zooplankton,tara,200_500,mediterranean,bad
